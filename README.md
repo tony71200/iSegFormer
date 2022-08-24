@@ -1,3 +1,5 @@
+## This repository has been moved to [uncbiag/iSegFormer](https://github.com/uncbiag/iSegFormer).
+
 ## [iSegFormer: Interactive Image Segmentation via Transformers with Application to 3D Knee MR Images](https://arxiv.org/abs/2112.11325)
 <p align="center">
     <a href="https://arxiv.org/abs/2112.11325">
