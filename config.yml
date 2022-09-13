@@ -5,13 +5,13 @@ INTERACTIVE_MODELS_PATH: "/playpen-raid/qinliu/models/model_0207_2022/iter_mask/
 EXPS_PATH: "/playpen-raid/qinliu/models/model_0228_2022"
 
 # Evaluation datasets
-GRABCUT_PATH: "/playpen-raid/qinliu/data/GrabCut"
+GRABCUT_PATH: "/playpen-raid2/qinliu/data/GrabCut"
 BERKELEY_PATH: "/playpen-raid/qinliu/data/Berkeley"
 DAVIS_PATH: "/playpen-raid/qinliu/data/DAVIS"
 COCO_MVAL_PATH: "/playpen-raid/qinliu/data/COCO_MVal"
 BraTS_PATH: "/playpen-raid/qinliu/data/BraTS20"
 ssTEM_PATH: "/playpen-raid/qinliu/data/ssTEM"
-OAIZIB_PATH: "./datasets/OAI-ZIB"
+OAIZIB_PATH: "/playpen-raid2/qinliu/data/OAI-ZIB"
 OAI_PATH: "/playpen-raid2/qinliu/data/OAI"
 
 # Train datasets
